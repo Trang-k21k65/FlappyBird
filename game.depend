@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1620013381 source:c:\users\vhc\desktop\ltnc\game\src\ltexture.cpp
+	"LTexture.h"
+
+1620031521 c:\users\vhc\desktop\ltnc\game\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"Config.h"
+
+1620089421 c:\users\vhc\desktop\ltnc\game\include\config.h
+
+1620087823 source:c:\users\vhc\desktop\ltnc\game\src\bird.cpp
+	"Bird.h"
+
+1620087555 c:\users\vhc\desktop\ltnc\game\include\bird.h
+	"Threat.h"
+	<SDL_mixer.h>
+
+1619979257 c:\users\vhc\desktop\ltnc\game\include\threat.h
+	"LTexture.h"
+
+1620086954 source:c:\users\vhc\desktop\ltnc\game\src\game.cpp
+	"Game.h"
+
+1620026962 c:\users\vhc\desktop\ltnc\game\include\game.h
+	"Menu.h"
+	"Bird.h"
+	<typeinfo>
+
+1620062088 source:c:\users\vhc\desktop\ltnc\game\src\threat.cpp
+	"Threat.h"
+
+1620027041 source:c:\users\vhc\desktop\ltnc\game\src\text.cpp
+	"Text.h"
+
+1620027013 c:\users\vhc\desktop\ltnc\game\include\text.h
+	<SDL_ttf.h>
+	"LTexture.h"
+
+1620009989 source:c:\users\vhc\desktop\ltnc\game\src\main.cpp
+	"Game.h"
+
+1620058989 source:c:\users\vhc\desktop\ltnc\game\src\menu.cpp
+	"Menu.h"
+
+1620022640 c:\users\vhc\desktop\ltnc\game\include\menu.h
+	"Text.h"
+	"SDL_mixer.h"
+
+1619942055 c:\users\vhc\desktop\ltnc\game\include\score.h
+	"Bird.h"
+	"Threat.h"
+
+1619942340 source:c:\users\vhc\desktop\ltnc\game\src\score.cpp
+	"Score.h"
+
+1620087823 source:c:\users\vhc\desktop\ltnc\flappy\src\bird.cpp
+	"Bird.h"
+
+1620089616 c:\users\vhc\desktop\ltnc\flappy\include\bird.h
+	"Threat.h"
+	<SDL_mixer.h>
+
+1619979257 c:\users\vhc\desktop\ltnc\flappy\include\threat.h
+	"LTexture.h"
+
+1620031521 c:\users\vhc\desktop\ltnc\flappy\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"Config.h"
+
+1620089421 c:\users\vhc\desktop\ltnc\flappy\include\config.h
+
+1620097069 source:c:\users\vhc\desktop\ltnc\flappy\src\game.cpp
+	"Game.h"
+
+1620026962 c:\users\vhc\desktop\ltnc\flappy\include\game.h
+	"Menu.h"
+	"Bird.h"
+	<typeinfo>
+
+1620022640 c:\users\vhc\desktop\ltnc\flappy\include\menu.h
+	"Text.h"
+	"SDL_mixer.h"
+
+1620027013 c:\users\vhc\desktop\ltnc\flappy\include\text.h
+	<SDL_ttf.h>
+	"LTexture.h"
+
+1620095731 source:c:\users\vhc\desktop\ltnc\flappy\src\ltexture.cpp
+	"LTexture.h"
+
+1620009989 source:c:\users\vhc\desktop\ltnc\flappy\src\main.cpp
+	"Game.h"
+
+1620058989 source:c:\users\vhc\desktop\ltnc\flappy\src\menu.cpp
+	"Menu.h"
+
+1620027041 source:c:\users\vhc\desktop\ltnc\flappy\src\text.cpp
+	"Text.h"
+
+1620096837 source:c:\users\vhc\desktop\ltnc\flappy\src\threat.cpp
+	"Threat.h"
+
+1620087823 source:c:\users\vhc\desktop\flappy-bird\src\bird.cpp
+	"Bird.h"
+
+1620089616 c:\users\vhc\desktop\flappy-bird\include\bird.h
+	"Threat.h"
+	<SDL_mixer.h>
+
+1619979257 c:\users\vhc\desktop\flappy-bird\include\threat.h
+	"LTexture.h"
+
+1620031521 c:\users\vhc\desktop\flappy-bird\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"Config.h"
+
+1620089421 c:\users\vhc\desktop\flappy-bird\include\config.h
+
+1620100146 source:c:\users\vhc\desktop\flappy-bird\src\game.cpp
+	"Game.h"
+
+1620026962 c:\users\vhc\desktop\flappy-bird\include\game.h
+	"Menu.h"
+	"Bird.h"
+	<typeinfo>
+
+1620022640 c:\users\vhc\desktop\flappy-bird\include\menu.h
+	"Text.h"
+	"SDL_mixer.h"
+
+1620027013 c:\users\vhc\desktop\flappy-bird\include\text.h
+	<SDL_ttf.h>
+	"LTexture.h"
+
+1620095731 source:c:\users\vhc\desktop\flappy-bird\src\ltexture.cpp
+	"LTexture.h"
+
+1620009989 source:c:\users\vhc\desktop\flappy-bird\src\main.cpp
+	"Game.h"
+
+1620058989 source:c:\users\vhc\desktop\flappy-bird\src\menu.cpp
+	"Menu.h"
+
+1620027041 source:c:\users\vhc\desktop\flappy-bird\src\text.cpp
+	"Text.h"
+
+1620096837 source:c:\users\vhc\desktop\flappy-bird\src\threat.cpp
+	"Threat.h"
+
+1620074316 source:c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\src\bird.cpp
+	"Bird.h"
+
+1620074316 c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\include\bird.h
+	"Threat.h"
+	<SDL_mixer.h>
+
+1620074316 c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\include\threat.h
+	"LTexture.h"
+
+1620074316 c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"Config.h"
+
+1620074316 c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\include\config.h
+
+1620074316 source:c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\src\game.cpp
+	"Game.h"
+
+1620074316 c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\include\game.h
+	"Menu.h"
+	"Bird.h"
+	<typeinfo>
+
+1620074316 c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\include\menu.h
+	"Text.h"
+	"SDL_mixer.h"
+
+1620074316 c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\include\text.h
+	<SDL_ttf.h>
+	"LTexture.h"
+
+1620074316 source:c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\src\ltexture.cpp
+	"LTexture.h"
+
+1620074316 source:c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\src\main.cpp
+	"Game.h"
+
+1620074316 source:c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\src\menu.cpp
+	"Menu.h"
+
+1620074316 source:c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\src\text.cpp
+	"Text.h"
+
+1620074316 source:c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\src\threat.cpp
+	"Threat.h"
+
