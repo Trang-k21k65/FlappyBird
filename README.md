@@ -20,7 +20,7 @@ Sử dụng C++ và thư viện SDL2
     * nhấn chuột trái hoặc phím SPACE để điều khiển con bird.
     * mỗi lần bird vượt qua 1 threat thì điểm sẽ cộng 1.
     * khi bird va chạm với threat, với biên của background, với mặt đất thì sẽ chết.
-    * trong khi chơi nhấn phím "**s**" nếu muốn **pause** game.
+    * trong khi chơi có thể pause game.
 * khi bird chết sẽ hiện ra màn hình gameover:
     * có 2 lựa chọn cho người chơi "Play" và "Exit": nhấn "Play" để chơi lại còn nhấn "Exit" để thoát khỏi game.
     * trên màn hình còn có hiện điểm của người chơi: "Score" là điểm lần vừa chơi và "Best" là điểm cao nhất trong các lần chơi trước đó( khi tắt game "Best" không được lưu).
