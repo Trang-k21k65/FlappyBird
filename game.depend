@@ -206,3 +206,53 @@
 1620074316 source:c:\users\vhc\downloads\flappy-bird-89cff9dadfc521f98374640401354939278fd9d8\src\threat.cpp
 	"Threat.h"
 
+1620205229 source:c:\users\vhc\desktop\flappybird\src\bird.cpp
+	"Bird.h"
+
+1620205228 c:\users\vhc\desktop\flappybird\include\bird.h
+	"Threat.h"
+	<SDL_mixer.h>
+
+1620205228 c:\users\vhc\desktop\flappybird\include\threat.h
+	"LTexture.h"
+
+1620205228 c:\users\vhc\desktop\flappybird\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"Config.h"
+
+1620205228 c:\users\vhc\desktop\flappybird\include\config.h
+
+1620205229 source:c:\users\vhc\desktop\flappybird\src\game.cpp
+	"Game.h"
+
+1620205228 c:\users\vhc\desktop\flappybird\include\game.h
+	"Menu.h"
+	"Bird.h"
+	<typeinfo>
+
+1620205228 c:\users\vhc\desktop\flappybird\include\menu.h
+	"Text.h"
+	"SDL_mixer.h"
+
+1620205228 c:\users\vhc\desktop\flappybird\include\text.h
+	<SDL_ttf.h>
+	"LTexture.h"
+
+1620205229 source:c:\users\vhc\desktop\flappybird\src\ltexture.cpp
+	"LTexture.h"
+
+1620205229 source:c:\users\vhc\desktop\flappybird\src\main.cpp
+	"Game.h"
+
+1620205229 source:c:\users\vhc\desktop\flappybird\src\menu.cpp
+	"Menu.h"
+
+1620205229 source:c:\users\vhc\desktop\flappybird\src\text.cpp
+	"Text.h"
+
+1620205229 source:c:\users\vhc\desktop\flappybird\src\threat.cpp
+	"Threat.h"
+
